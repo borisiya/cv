@@ -27,10 +27,10 @@ sub.addEventListener('click', (e) =>{
 })
 ```
 ## Work experience:
-No experience
+No experience...
 ## Education:
 Belarusian State University of Informatics and Radioelectronics - 
 Faculty of Engineering and Economics
 ## Language:
 + Russian
-+ English (A2)
++ English (B1)
