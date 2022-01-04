@@ -4,7 +4,7 @@
 + E-mail: anna30090115@gmail.com
 + Phone: +375298080745
 ## About me:
-I am 20 years old. I am also a 3rd year student at the university.
+I am 20 years old. I am also a 3rd year student at the university. My desire is to learn front-end development. 
 ## Skills:
 + C/C++ (basic)
 + Python
